@@ -10,13 +10,13 @@ I'll be graduating with my Masters the Summer of 2020 and transitioning into ind
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>o	Molecular Biology/ Genetic engineering: gene isolation, assembly of DNA constructs, polymerase chain reaction (PCR and RT-PCR), DNA sequence analysis, heterologous expression of genes in E.coli, Yeast two-hybrid screens.</li>
-	<li>o	Genetic experiments: crossings, genomic DNA isolation, in situ hybridization, inducible amiRNA systems. </li>
-	<li>o	Genetic modification of plants: Agrobacterium tumefaciens mediated transformation, selection of transgenic plant lines.</li>
-	<li>o	Advanced microscopy: fluorescence microscopy, confocal microscopy. </li>
-	<li>o	Microsoft Office Suite: Excel, Project, Word, PowerPoint</li>
-	<li>o	Software Knowledge: ImageJ, Git (GitHub), Python (limited) </li>
-	<li>o	Bilingual: English & Spanish</li>
+	<li>	Molecular Biology/ Genetic engineering: gene isolation, assembly of DNA constructs, polymerase chain reaction (PCR and RT-PCR), DNA sequence analysis, heterologous expression of genes in E.coli, Yeast two-hybrid screens.</li>
+	<li>	Genetic experiments: crossings, genomic DNA isolation, in situ hybridization, inducible amiRNA systems. </li>
+	<li>	Genetic modification of plants: Agrobacterium tumefaciens mediated transformation, selection of transgenic plant lines.</li>
+	<li>	Advanced microscopy: fluorescence microscopy, confocal microscopy. </li>
+	<li>	Microsoft Office Suite: Excel, Project, Word, PowerPoint</li>
+	<li>	Software Knowledge: ImageJ, Git (GitHub), Python (limited) </li>
+	<li>	Bilingual: English & Spanish</li>
 	
 </ul>
 
