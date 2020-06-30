@@ -1,35 +1,31 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "The Post-Translational Regulation of the Shoot Stem Cell Niche: KIN10 and KIN11"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+date: 2020-06-25 14:45
+image: /assets/images/markdown.jpg
+headerImage: false
+tag: research
 projects: true
-hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
-category: project
-author: johndoe
-externalLink: false
+description: This project is focused on elucidating the role of the protein kinasases KIN10 and KIN11 on the post-translational regulation of WUSCHEL
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![BiFC Images for Website](https://github.com/DariushNejad/DariushNejad/blob/gh-pages/assets/images/BiFC%20Images%20for%20Website.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+## Summary
 
----
+Regulation of the stem cell niche requires precise spatial distribution of the transcription factor WUSCHEL within the shoot apical meristem in order to establish the necessary transcriptional landscape necessary for proper plant development. Currently, not much is known about the specific mechanisms utilized in order to maintain and alter WUSCHEL protein gradients therefore this project is aimed at uncovering those mechanisms by studying the role of the SNF1-related protein kinases, KIN10 and KIN11, on regulation of WUSCHEL. 
 
-What has inside?
+The main goals of this project are:
+1. Confirm binding of KIN10 and KIN11 to suspected KIN binding domains found on WUSCHEL.
+2. Investigate the spatial dynamics of KIN10 and KIN11 binding to WUSCHEL within the context of the cell.
+3. Investigate any changes to the WUSCHEL protein gradient or to the function of WUSCHEL by misexpressing KIN10 and KIN11. 
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+In order to confirm binding of KIN10 and KIN11 to WUSCHEL, I employed the yeast two-hybrid method and was able to map KIN binding to two specific WUSCHEL domains near the C-terminus of the protein. Both KIN10 and KIN11 exhibited identical binding patters to WUSCHEL suggesting the possibility of function redundancy between the two proteins when it comes to WUSCHEL regulation. Next, I wanted to understand the spatial dynamics of KIN binding to WUSCHEL. Specifically, I wanted to know if the interaction of these proteins was occurring in the nucleus and/or the cytoplasm. To do this I used bimolecular fluorescence complementation (BiFC) and transiently co-expressed either KIN10 and WUSCHEL or KIN11 and WUSCHEL in tobacco leaves. Fluorescence was observed using the ZEISS LSM 880 showing that WUSCHEL and both KIN kinases interacted only in the cytoplasm of the cell. Armed with this newly found interaction I wanted to understand the regulatory role of the KINs on WUSCHEL. To do this I used genetically modified Arabidopsis thaliana that over-expressed KIN10 using viral promoters. This produced plants that had stunted growth and over produced organs which hinted at some sort of alteration of WUSCHEL levels as a result of the changes in development. I crossbred the KIN10 overexpression lines with one of three fluorescent reports that would allow to see changes in either the WUSCHEL protein gradient, WUSCHEL function or WUSCHEL transcription. Using the same confocal laser scanning microscope I was able to show overexpression of KIN10 results in a decrease of WUSCHEL protein levels and a subsequent increase in the expression of CLAVATA-3 (WUSCHEL's negative regulator) implying that KIN10 interactions with WUSCHEL result in a decrease of the WUSCHEL protein level in the cytoplasm pushing the plant to slow down growth and stem cell proliferation by instead favoring differentiation.       
 
----
+More information and details on my work done for this project will become soon available near the end of Summer 2020 once my master's thesis is finalized and publically available. For more information on any aspect of my projects or the availability of my thesis please contact me at dneja001@ucr.edu.   
 
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+## Future Directions
+
+Although KIN10 and KIN11 are homologous proteins and even share the same binding dynamics more work has to be done on investigating the effects of overexpressing KIN11 on shoot stem cell maintenance.
+
+Currently I am also developing an inducible artificial microRNA system that will specifically target KIN10 and KIN11. This will make it so that I can induce the knockdown of KIN10 and KIN11 transcription which I can then use with the same fluorescent reporters in the KIN10 overexpression study in order to understand WUSCHEL dynamics without the regulation imposed by the KINs. 
