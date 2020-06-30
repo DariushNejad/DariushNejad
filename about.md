@@ -4,43 +4,19 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p> I am a M.S. candidate in the Department of Botany and Plant Sciences at University of California, Riverside. My research is focused on understanding the role of protein phosphorylation for the maintenance of stem cells located on the shoot apical meristem in plants. When uncovering the mysteries of plant development, I spend my time homesteading, sipping on ciders or playing video games.  
+I'll be graduating with my Masters the Summer of 2020 and transitioning into industry where I hope to aplly my skills towards a career in Synthetic Biology. I am open to all expereince and can work in a commercial, academic or government setting. </p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>o	Molecular Biology/ Genetic engineering: gene isolation, assembly of DNA constructs, polymerase chain reaction (PCR and RT-PCR), DNA sequence analysis, heterologous expression of genes in E.coli, Yeast two-hybrid screens.</li>
+	<li>o	Genetic experiments: crossings, genomic DNA isolation, in situ hybridization, inducible amiRNA systems. </li>
+	<li>o	Genetic modification of plants: Agrobacterium tumefaciens mediated transformation, selection of transgenic plant lines.</li>
+	<li>o	Advanced microscopy: fluorescence microscopy, confocal microscopy. </li>
+	<li>o	Microsoft Office Suite: Excel, Project, Word, PowerPoint</li>
+	<li>o	Software Knowledge: ImageJ, Git (GitHub), Python (limited) </li>
+	<li>o	Bilingual: English & Spanish</li>
+	
 </ul>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
