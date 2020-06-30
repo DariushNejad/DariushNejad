@@ -10,7 +10,7 @@ I'll be graduating with my Masters the Summer of 2020 and transitioning into ind
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>	Molecular Biology/ Genetic engineering: gene isolation, assembly of DNA constructs, polymerase chain reaction (PCR and RT-PCR), DNA sequence analysis, heterologous expression of genes in E.coli, Yeast two-hybrid screens.</li>
+	<li>	Molecular Biology/ Genetic engineering: gene isolation, assembly of DNA constructs, polymerase chain reaction (PCR and RT-PCR), DNA sequence analysis, heterologous expression of genes in E.coli, Yeast two-hybrid screens, Bimolecular fluorescence complementation (BiFC) .</li>
 	<li>	Genetic experiments: crossings, genomic DNA isolation, in situ hybridization, inducible amiRNA systems. </li>
 	<li>	Genetic modification of plants: Agrobacterium tumefaciens mediated transformation, selection of transgenic plant lines.</li>
 	<li>	Advanced microscopy: fluorescence microscopy, confocal microscopy. </li>
