@@ -1,0 +1,28 @@
+---
+title: "The Post-Translational Regulation of the Shoot Stem Cell Niche: SUMO"
+layout: post
+date: 2020-06-29 22:00
+image: /assets/images/markdown.jpg
+headerImage: false
+tag: research
+projects: true
+description: This project is focused on elucidating the role of SUMO on the post-translational regulation of WUSCHEL
+---
+
+![SUMOImagesforWebsite](https://github.com/DariushNejad/DariushNejad/blob/gh-pages/assets/images/SUMOImagesforWebsite.png)
+
+## Summary
+
+Regulation of the stem cell niche requires precise spatial distribution of the transcription factor WUSCHEL within the shoot apical meristem in order to establish the necessary transcriptional landscape necessary for proper plant development. Currently, not much is known about the specific mechanisms utilized in order to maintain and alter WUSCHEL protein gradients therefore this project is aimed at uncovering those mechanisms. Previous work in our lab has demonstrated a vast protein network with which WUS interacts with revealing potential mechanisms for modulating WUS function. Particularly interesting was the fact that SUMO was identified in this screen. SUMO or Small Ubiquitin-like Modifier, are a family of proteins that are involved in a vast amount of cellular processes that include but aren't limited to: protein stability, nuclear-cytosolic partitioning and protein complex binding. Although SUMO normally binds to its target through covalent attachments no SUMO binding domains are found on WUSCHEL, making it likely that their interaction is facilitated via SUMO interacting motifs.    
+
+The main goal of this project is:
+1. Investigate the role of SUMO regulation on WUSCHEL by visualizing changes to WUSCHEL protein levels, CLAVATA3 transcription and WUSCHEL transcription. 
+
+In order to understand how SUMO regulates WUSCHEL I have employed a inducible artificial mRNA systems that targets known SUMO proteins in Arabidopsis thaliana. This system works by sequestering the transcription factor necessary to transcribe the p6xOP promoter in the cytoplasm by using membrane bound Glucocorticoid receptors. Once the hormone Dexamethasone is introduced to the cell the transcription factor will induced the transcription of double stranded RNAs then will then knock down SUMO. Pairing this system with fluorescent reporters I can visualize fluctuations in fluorescence of plants with and without SUMO knockdown. Using a CLAVATA3 transcription reporter will allow us to understand if there are changes to WUSCHEL protein levels or a change to WUSHCEL function as CLVATA3 is a direct target of WUSCHEL. Using the ZEISS LSM 880, I was able to see an increase in CLAVATA3 fluorescence intensity as well as an expansion of its expression domain when SUMO knockdown is induced over a 24 and 48 hour period. This suggests that there must be either a decrease in overall WUSHCEL protein levels (since CLAVATA3 negatively regulates WUSCHEL) or enhancement of WUSCHEL’s ability to activate CLAVATA3 transcription.   
+  
+
+More information and details on my work done for this project will become soon available near the end of Summer 2020 once my master's thesis is finalized and publically available. For more information on any aspect of my projects or the availability of my thesis please contact me at dneja001@ucr.edu.   
+
+## Future Directions
+
+More work has to be done to understand how SUMO knockdown changes the WUSCHEL protein and transcription of WUSCHEL by using their respective fluorescent reporters. Just as with CLAVATA3, lines containing the SUMO amiRNA and one of the two reporters will have dexamethasone applied and changes in fluorescence will be monitored 24 and 48 hours after induction.
