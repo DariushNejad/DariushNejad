@@ -9,7 +9,7 @@ projects: true
 description: This project is focused on elucidating the role of the protein kinasases KIN10 and KIN11 on the post-translational regulation of WUSCHEL
 ---
 
-![BiFC Images for Website](https://github.com/DariushNejad/DariushNejad/blob/gh-pages/assets/images/BiFC%20Images%20for%20Website.png)
+![BiFC Images for Website](https://github.com/DariushNejad/DariushNejad.io/blob/gh-pages/assets/images/BiFC%20Images%20for%20Website.png)
 
 ## Summary
 
