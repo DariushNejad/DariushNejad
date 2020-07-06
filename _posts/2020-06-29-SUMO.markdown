@@ -9,7 +9,7 @@ projects: true
 description: This project is focused on elucidating the role of SUMO on the post-translational regulation of WUSCHEL
 ---
 
-![SUMOImagesforWebsite](https://github.com/DariushNejad/DariushNejad.io/blob/gh-pages/assets/images/SUMOImagesforWebsite.png)
+![SUMOImagesforWebsite](https://github.com/DariushNejad/DariushNejad/blob/gh-pages/assets/images/SUMOImagesforWebsite.png)
 
 ## Summary
 
